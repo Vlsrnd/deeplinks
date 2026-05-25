@@ -1,11 +1,8 @@
 {
     "webcredentials": {
-        "apps": [
-        "XJ54NM66NP.com.yplaces.app"
-        ]
+        "apps": [ "XJ54NM66NP.com.yplaces.app" ]
     },
     "applinks": {
-        "apps": [],
         "details": [
             {
                 "appID": "XJ54NM66NP.com.yplaces.app",
@@ -23,7 +20,7 @@
                       "comment": "Matches /pay/ followed by one or more segments"
                     },
                     {
-                      "/": "/records,
+                      "/": "/records/*,
                       "comment "Records"
                     }
                 ]
