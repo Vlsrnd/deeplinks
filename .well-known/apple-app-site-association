@@ -22,7 +22,8 @@
                     {
                       "/": "/records/*",
                       "comment": "Records"
-                    }
+                    },
+                    { "/": "/deeplinks/records", "comment": "Exact match" }
                 ]
             }
         ]
